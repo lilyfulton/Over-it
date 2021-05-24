@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&family=Reggae+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Raleway:wght@200&display=swap');
+
+body{
+    background-color: #f4d2a5;
+    margin: 0 0 0 0;
+    font-family: 'Chela One', cursive;
+}
+
+.links{
+    margin: 40px 0 0 0;
+    font-size: 2rem;
+    text-align: center;
+    color: dodgerblue;
+}
+
+.links a { 
+color: #e63e25; 
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: none;
+}
+ 
+.photo {
+    padding-top: 40px;
+    padding-left: auto;
+    padding-right: auto;
+    text-align: center;
+}
+
+.photo img {
+    border: 5px solid;
+    border-color: palegreen; 
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+@media screen and (max-width: 480px) {
+    body {
+        background-color: green;
+    }
