@@ -40,3 +40,10 @@ text-decoration: none;
     body {
         background-color: green;
     }
+    
+#Stores {
+        padding-left: auto;
+        padding-right: auto;
+        text-align: centre;
+    }
+    
